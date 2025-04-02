@@ -1,0 +1,12 @@
+body {background-color: whitesmoke;}
+h1{color: grey;
+    align-items: center ;}
+
+h2{color: grey ;
+    align-items: center;}
+
+#foto1{text-align: center;
+    align-items: center;}
+
+    #foto1 img{ height: 300px ;
+    border-radius: 150px;}
